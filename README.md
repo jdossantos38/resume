@@ -37,7 +37,7 @@ Subject: Wireless Sensor Networks and Privacy
 
 2013 - Master's degree in engineering in Hardware and Software for Embedded Systems
 
-Options: Automatics, automation and image computing
+Options: Automatics, automation and image processing
 
 ### Work Experience
 
