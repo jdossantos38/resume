@@ -68,7 +68,7 @@ Options: Automation, signal and image processing
 #### Security
 - Lightweight security and privacy
 - Symetric and asymetric ciphering: AES, CBC, CTR algorithms
-- TLS
+- TLS, IPSec
 
 #### Other
 Solidworks, Moodle, TEAMS, ZOOM, LaTeX
@@ -80,6 +80,6 @@ School fund collects
 
 Baking
 
-Personal Projects: Photobooth, Domotic system
+Personal Projects: Photobooth, Home automation system
 
 
