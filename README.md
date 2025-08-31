@@ -31,10 +31,6 @@ DOS SANTOS Jessye
 
 ### Education
 
-2023 - Embedded Software engineer
-
-Subject: Study, develop and test tractor functionnalities (FAN, TIM, PTO...)
-
 2017 - PhD in Mathematics and Computer Sciences 
 
 Subject: Wireless Sensor Networks and Privacy
@@ -44,6 +40,8 @@ Subject: Wireless Sensor Networks and Privacy
 Options: Automation, signal and image processing
 
 ### Work Experience
+
+2023 - TODAY: Embedded Software engineer (60, FRANCE)
 
 2017 - 2022: Assistant professor ESTIA (64, FRANCE)
 
@@ -57,7 +55,7 @@ Options: Automation, signal and image processing
 - Network Simulators: WSNET, COOJA
 
 #### Hardware
-- MCU: MSP430, PIC, RASPBERRY PI, ARDUINO, ARM
+- MCU: BOSCH SRC14, MSP430, PIC, RASPBERRY PI, ARDUINO, ARM
 - Buses: SPI, I2C, CAN (reverse engineering), USB
 - Sensors: temperature, humidity, luminosity, accelerometer
 - Measurement tools: oscilloscope, AOP, serial analyzer, wireshark, jtag, gdb, valgrind 
@@ -67,8 +65,9 @@ Options: Automation, signal and image processing
 - School knowledge: C++, assembly language, ladder, GRAFCET, RUST
 
 #### Network
-- Standards: 6LoWPAN, ZigBee, IEEE 802.15.4, LORA, SIGFOX
-- Protocols: OSI model, TSCH, IPv6, RPL, UDP, TCP, CoAP, MQTT 
+- Standards: 6LoWPAN, ZigBee, IEEE 802.15.4, LORA, SIGFOX, AUTOSAR
+- Protocols: OSI model, TSCH, IPv6, RPL, UDP, TCP, CoAP, MQTT
+  
 #### Security
 - Lightweight security and privacy
 - Symetric and asymetric ciphering: AES, CBC, CTR algorithms
