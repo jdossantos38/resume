@@ -31,6 +31,10 @@ DOS SANTOS Jessye
 
 ### Education
 
+2023 - Embedded Software engineer
+
+Subject: Study, develop and test tractor functionnalities (FAN, TIM, PTO...)
+
 2017 - PhD in Mathematics and Computer Sciences 
 
 Subject: Wireless Sensor Networks and Privacy
